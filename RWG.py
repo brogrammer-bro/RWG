@@ -88,8 +88,8 @@ for url in urls:
         break
 
 
-u24 = ImageFont.truetype("/mnt/DATA/Programs/RWG/ubuntu-font-family-0.80/Ubuntu-B.ttf", 24)
-u18 = ImageFont.truetype("/mnt/DATA/Programs/RWG/ubuntu-font-family-0.80/Ubuntu-B.ttf", 18)
+u24 = ImageFont.truetype("/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-B.ttf", 24)
+u18 = ImageFont.truetype("/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-B.ttf", 18)
 fillColor = "white"
 highColor = "#FF4500"
 lowColor = "#5f99cf"
